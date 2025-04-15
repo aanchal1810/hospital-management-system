@@ -32,7 +32,7 @@ Each table includes relevant attributes with proper data types, constraints, and
 
 ## Co-Owners
 
-> Add contributor names with GitHub profile links below:
+> This project is co-owned by the following:
 
 - [Tia Gala](https://github.com/TiaGala16)  
 - [Aryan Vora](https://github.com/aryanvora999)  
