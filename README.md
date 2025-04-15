@@ -53,7 +53,7 @@ Each table includes relevant attributes with proper data types, constraints, and
    - Paste the schema code provided in this repo to create the database and tables
 
 4. **Add Sample Data (Optional)**  
-   - Insert sample records using either SQL scripts or the **Table Editor** in Supabase Studio
+   - Insert sample records using either SQL scripts or the **Table Editor** in Supabase Studio if you want to run the queries provided, we have added a few sample records but you will need more records to run a few queries
 
 5. **Explore & Query**  
    - Use the **Table View** and **SQL Editor** in Supabase Studio to explore relationships and test queries
